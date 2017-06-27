@@ -1,4 +1,6 @@
 # myfirstrepo
 my first repo
 
-by Lisa 
+by Lisa Eshun-Wilson
+
+UC Berkeley PhD Student  
